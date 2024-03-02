@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-24T19:09:51 IST" name="Suite" finished-at="2024-01-24T19:10:14 IST" duration-ms="23270">
+    <groups>
+    </groups>
+    <test started-at="2024-01-24T19:09:51 IST" name="navigation" finished-at="2024-01-24T19:10:14 IST" duration-ms="23270">
+      <class name="ABT_demo.ABTA_1.standalone">
+        <test-method is-config="true" signature="reportsconfiguration()[pri:0, instance:ABT_demo.ABTA_1.standalone@7a220c9a]" started-at="2024-01-24T19:09:51 IST" name="reportsconfiguration" finished-at="2024-01-24T19:09:51 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportsconfiguration -->
+        <test-method is-config="true" signature="launchapplication()[pri:0, instance:ABT_demo.ABTA_1.standalone@7a220c9a]" started-at="2024-01-24T19:09:51 IST" name="launchapplication" finished-at="2024-01-24T19:10:10 IST" duration-ms="18940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method signature="addtravellers()[pri:0, instance:ABT_demo.ABTA_1.standalone@7a220c9a]" started-at="2024-01-24T19:10:10 IST" name="addtravellers" finished-at="2024-01-24T19:10:14 IST" duration-ms="3953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtravellers -->
+      </class> <!-- ABT_demo.ABTA_1.standalone -->
+    </test> <!-- navigation -->
+  </suite> <!-- Suite -->
+</testng-results>
